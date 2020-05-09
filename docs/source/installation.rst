@@ -1,0 +1,19 @@
+Installed Library
+=================
+1. flask
+2. flask_wtf
+3. wtforms
+4. werkzeug
+5. flask_sqlalchey
+6. flask_login
+7. flask_mail
+8. datetime
+9. calendar
+10. time
+11. request
+12. timedelta
+13. date
+14. pandas
+15. falsk-bootstrap
+16. pytest
+17. functiontool
