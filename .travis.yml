@@ -1,7 +1,0 @@
-language:python
-
-before_script:
-    - pip install pytest
-    
-script:
-  - pytest -v
