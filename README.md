@@ -32,3 +32,8 @@ Library we used for calendar,date,time:
 
 4.time  
 
+# milestone 4
+1.Deploy the webiste on heroku  
+2.please visit https://cmpe131-sjsu.herokuapp.com/  
+3.please go to https://cmpe131-sjsu.herokuapp.com/username to see the calendar, if this creator is not exist,back to home page. 
+4.homepage has the introduction of this website.
